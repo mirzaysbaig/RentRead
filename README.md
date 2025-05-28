@@ -30,7 +30,7 @@ A RESTful API service built using Spring Boot to manage an online Book Rental Sy
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/pgprajwal/RentRead.git
+    https://github.com/mirzaysbaig/RentRead.git
     ```
 
 2. **Navigate to the project directory:**
